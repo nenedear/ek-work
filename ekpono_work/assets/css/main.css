@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid #ccc;
+}
+
+td,
+th {
+    padding: 10px;
+}
+
+.menu {
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 5px 10px;
+    background: #999;
+    margin: 0 2px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    font-size: 0.8em;
+    background: #ccc;
+}
